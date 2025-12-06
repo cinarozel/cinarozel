@@ -85,24 +85,23 @@
 <p align="center">
 
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-343434?style=for-the-badge&logo=maildotru&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=maildotru&logoColor=000000&labelColor=FFFFFF" />
   </a>
 
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=FFFFFF" />
   </a>
 
   <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=FFFFFF" />
   </a>
 
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=FFFFFF" />
   </a>
 
   <a href="https://mastodon.social/@YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mastodon-FFFFFF?style=for-the-badge&logo=mastodon&logoColor=6364FF&labelColor=FFFFFF" />
   </a>
 
 </p>
-
