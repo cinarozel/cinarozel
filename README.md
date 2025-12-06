@@ -39,7 +39,7 @@
     </td>
     <td align="center">
       <a href="https://archlinux.org" target="_blank">
-        <img src="https://archlinux.org/favicon.ico" width="60" alt="GitHub"/>
+        <img src="https://skillicons.dev/icons?i=arch" width="60" alt="GitHub"/>
         <br>
         <span style="font-family: monospace; font-size: 14px;">Arch Linux</span>
       </a>
