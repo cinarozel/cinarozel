@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <strong>Çınar</strong></h1>
 
 <p align="center">
-  <strong>Python Developer | Web Learner | Tech Enthusiast</strong>
+  <strong>Developer</strong>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats (Working Alternatives)
+## 📊 GitHub Stats
 
 ### **GitHub Profile Summary Cards**
 <p align="center">
@@ -87,19 +87,19 @@
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=48&bg=transparent" alt="Email" width="48" height="48"/>
   </a>
 
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/cinar-ozel-91b93a359/" target="_blank">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=48&bg=transparent" alt="LinkedIn" width="48" height="48"/>
   </a>
 
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <a href="https://x.com/cinarozel2012" target="_blank">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=twitter&size=48&bg=transparent" alt="Twitter" width="48" height="48"/>
   </a>
 
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://instagram.com/cinarozel2012" target="_blank">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=48&bg=transparent" alt="Instagram" width="48" height="48"/>
   </a>
 
-  <a href="https://mastodon.social/@YOUR_USERNAME" target="_blank">
+  <a href="https://mastodon.social/@cinarozel" target="_blank">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=mastodon&size=48&bg=transparent" alt="Mastodon" width="48" height="48"/>
   </a>
 
