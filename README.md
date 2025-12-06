@@ -19,8 +19,7 @@
 
 ## 📊 GitHub Stats (Working Alternatives)
 
-### ✔️ Option 1 – **GitHub Profile Summary Cards**
-(En stabil çalışan sistem)
+### **GitHub Profile Summary Cards**
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cinarozel&theme=tokyonight" alt="Profile Details"/>
@@ -28,7 +27,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cinarozel&theme=tokyonight" alt="Most Commit Language"/>
 </p>
 
-### ✔️ Option 2 – **Metrics (çok kapsamlı)**
+### **Metrics**
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinarozel&theme=tokyo-night" alt="Activity Graph" />
@@ -38,8 +37,8 @@
 
 ## 📌 Featured Projects
 
-- 🔹 **Project 1** – Short description  
-- 🔹 **Project 2** – Short description  
+- 🔹 ![Main website](https://cinarozel.github.io)
+- 🔹 ![AllSearchEnginesOn1Page](https://cinarozel.github.io/allsearchenginesononepage)
 
 ---
 
