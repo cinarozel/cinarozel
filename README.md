@@ -1,23 +1,38 @@
-# 👋 Hi, I'm **Çınar**
+<h1 align="center">👋 Hi, I'm <strong>Çınar</strong></h1>
 
-### 💻 Developer | Python Enthusiast | Web Learner  
-
-Welcome to my GitHub profile! I enjoy building useful tools, learning new technologies, and creating simple web interfaces using **Python** and **HTML**.
+<p align="center">
+  <strong>Python Developer | Web Learner | Tech Enthusiast</strong>
+</p>
 
 ---
 
 ## 🚀 Technologies & Tools
 
-- 🐍 **Python**
-- 🌐 **HTML**
-- 📁 Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats (Working Alternatives)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cinarozel&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cinarozel&layout=compact&theme=tokyonight)
+### ✔️ Option 1 – **GitHub Profile Summary Cards**
+(En stabil çalışan sistem)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cinarozel&theme=tokyonight" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cinarozel&theme=tokyonight" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cinarozel&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+### ✔️ Option 2 – **Metrics (çok kapsamlı)**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinarozel&theme=tokyo-night" alt="Activity Graph" />
+</p>
 
 ---
 
@@ -30,19 +45,27 @@ Welcome to my GitHub profile! I enjoy building useful tools, learning new techno
 
 ## 🌍 Connect With Me
 
-- 📧 Email: *your-email@example.com*  
-- 🔗 LinkedIn: *your-linkedin*
+<p>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🎯 About Me
 
 - 🌱 Currently learning **advanced Python** and **web development**  
-- 🧩 I like solving problems and experimenting with new ideas  
-- 🎨 Enjoy making clean and simple user interfaces  
+- 🧩 I love solving problems and experimenting with new ideas  
+- 🎨 Interested in clean UI and simple designs  
 
 ---
 
-## 📝 Fun Fact
-> “The best way to learn is by building.”
+## 📝 Fun Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.”
 
