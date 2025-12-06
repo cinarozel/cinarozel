@@ -85,23 +85,23 @@
 <p align="center">
 
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" width="40" alt="Email" style="color:#D44638"/>
+    <img src="https://img.shields.io/badge/Email-%23D44638?style=flat&logo=gmail&logoColor=white" width="90" alt="Email"/>
   </a>
 
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" alt="LinkedIn" style="color:#0077B5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" width="90" alt="LinkedIn"/>
   </a>
 
   <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" alt="Twitter" style="color:#1DA1F2"/>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" width="90" alt="Twitter"/>
   </a>
 
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" alt="Instagram" style="color:#E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" width="90" alt="Instagram"/>
   </a>
 
   <a href="https://mastodon.social/@YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mastodon.svg" width="40" alt="Mastodon" style="color:#6364FF"/>
+    <img src="https://img.shields.io/badge/Mastodon-%236364FF?style=flat&logo=mastodon&logoColor=white" width="90" alt="Mastodon"/>
   </a>
 
 </p>
