@@ -74,34 +74,28 @@
 
 ---
 
-## 📝 Fun Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.”
-
----
-
 ## 🌍 Connect With Me
 
-<p align="center" style="display:flex; gap:20px; justify-content:center; align-items:center;">
+<p align="center" style="display: flex; gap: 16px; justify-content: center; align-items: center;">
 
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50" alt="Email" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&size=48&bg=transparent" alt="Email" width="48" height="48"/>
   </a>
 
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50" alt="LinkedIn" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=48&bg=transparent" alt="LinkedIn" width="48" height="48"/>
   </a>
 
   <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="50" height="50" alt="X" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=twitter&size=48&bg=transparent" alt="Twitter" width="48" height="48"/>
   </a>
 
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="50" height="50" alt="Instagram" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=instagram&size=48&bg=transparent" alt="Instagram" width="48" height="48"/>
   </a>
 
   <a href="https://mastodon.social/@YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mastodon.svg" width="50" height="50" alt="Mastodon" />
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=mastodon&size=48&bg=transparent" alt="Mastodon" width="48" height="48"/>
   </a>
 
 </p>
