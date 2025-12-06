@@ -17,7 +17,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <a href="https://html.spec.whatwg.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML"/>
         <br>
         <span style="font-family: monospace; font-size: 14px;">HTML</span>
