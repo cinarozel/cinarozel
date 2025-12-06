@@ -7,13 +7,34 @@
 ---
 
 ## 🚀 Technologies & Tools
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" />
+    <span style="font-size: 16px; margin-left: 8px;">Python</span>
+  </a>
+  <br>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" />
+    <span style="font-size: 16px; margin-left: 8px;">HTML</span>
+  </a>
+  <br>
+
+  <a href="https://git-scm.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
+    <span style="font-size: 16px; margin-left: 8px;">Git</span>
+  </a>
+  <br>
+
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
+    <span style="font-size: 16px; margin-left: 8px;">GitHub</span>
+  </a>
+  <br>
+
 </p>
+
 
 ---
 
