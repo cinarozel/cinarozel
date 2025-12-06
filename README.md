@@ -36,6 +36,13 @@
         <br>
         <span style="font-family: monospace; font-size: 14px;">GitHub</span>
       </a>
+    </td>
+    <td align="center">
+      <a href="https://archlinux.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=archlinux" width="60" alt="GitHub"/>
+        <br>
+        <span style="font-family: monospace; font-size: 14px;">Arch Linux</span>
+      </a>
   </tr>
 </table>
 
