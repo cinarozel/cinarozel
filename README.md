@@ -79,29 +79,28 @@
 > “Code is like humor. When you have to explain it, it’s bad.”
 
 ---
-
 ## 🌍 Connect With Me
 
 <p align="center">
 
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=maildotru&logoColor=000000&labelColor=FFFFFF" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" width="40" alt="Email" />
   </a>
 
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=FFFFFF" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" alt="LinkedIn" />
   </a>
 
   <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=FFFFFF" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" alt="Twitter" />
   </a>
 
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=FFFFFF" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" alt="Instagram" />
   </a>
 
   <a href="https://mastodon.social/@YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Mastodon-FFFFFF?style=for-the-badge&logo=mastodon&logoColor=6364FF&labelColor=FFFFFF" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mastodon.svg" width="40" alt="Mastodon" />
   </a>
 
 </p>
