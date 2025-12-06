@@ -30,8 +30,6 @@
         <span style="font-family: monospace; font-size: 14px;">Git</span>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
