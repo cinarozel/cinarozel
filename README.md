@@ -79,28 +79,29 @@
 > “Code is like humor. When you have to explain it, it’s bad.”
 
 ---
+
 ## 🌍 Connect With Me
 
 <p align="center">
 
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" width="40" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" width="40" alt="Email" style="color:#D44638"/>
   </a>
 
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" alt="LinkedIn" style="color:#0077B5"/>
   </a>
 
   <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" alt="Twitter" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" width="40" alt="Twitter" style="color:#1DA1F2"/>
   </a>
 
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" alt="Instagram" style="color:#E4405F"/>
   </a>
 
   <a href="https://mastodon.social/@YOUR_USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mastodon.svg" width="40" alt="Mastodon" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mastodon.svg" width="40" alt="Mastodon" style="color:#6364FF"/>
   </a>
 
 </p>
