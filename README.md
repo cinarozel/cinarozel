@@ -82,27 +82,26 @@
 
 ## 🌍 Connect With Me
 
-<p align="center">
+<p align="center" style="display:flex; gap:20px; justify-content:center; align-items:center;">
 
   <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D44638?style=flat-square&logo=gmail&logoColor=white&label=" width="50" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50" alt="Email" />
   </a>
 
   <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&label=" width="50" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="50" height="50" alt="LinkedIn" />
   </a>
 
   <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-X-%23000000?style=flat-square&logo=x&logoColor=white&label=" width="50" alt="X"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="50" height="50" alt="X" />
   </a>
 
   <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&label=" width="50" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="50" height="50" alt="Instagram" />
   </a>
 
   <a href="https://mastodon.social/@YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Mastodon-%236364FF?style=flat-square&logo=mastodon&logoColor=white&label=" width="50" alt="Mastodon"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mastodon.svg" width="50" height="50" alt="Mastodon" />
   </a>
 
 </p>
-
