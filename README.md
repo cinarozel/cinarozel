@@ -37,8 +37,8 @@
 
 ## 📌 Featured Projects
 
-- 🔹 ![Main website](https://cinarozel.github.io)
-- 🔹 ![AllSearchEnginesOn1Page](https://cinarozel.github.io/allsearchenginesononepage)
+- 🔹 [Main website](https://cinarozel.github.io)
+- 🔹 [AllSearchEnginesOn1Page](https://cinarozel.github.io/allsearchenginesononepage)
 
 ---
 
