@@ -7,33 +7,54 @@
 ---
 
 ## 🚀 Technologies & Tools
-<p align="left">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
+        <br>
+        <span style="font-family: monospace; font-size: 14px;">Python</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML"/>
+        <br>
+        <span style="font-family: monospace; font-size: 14px;">HTML</span>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
+        <br>
+        <span style="font-family: monospace; font-size: 14px;">Git</span>
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" />
-    <span style="font-size: 16px; margin-left: 8px;">Python</span>
-  </a>
-  <br>
+  <tr>
+    <td align="center">
+      <a href="https://github.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
+        <br>
+        <span style="font-family: monospace; font-size: 14px;">GitHub</span>
+      </a>
+    </td>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" width="40" alt="HTML" />
-    <span style="font-size: 16px; margin-left: 8px;">HTML</span>
-  </a>
-  <br>
+    <!-- Boş bırakılmış 5. ve 6. ikon alanları -->
+    <td align="center">
+      <img src="https://via.placeholder.com/60/000000/FFFFFF?text=+" width="60" style="opacity:0;"/>
+      <br>
+      <span style="font-family: monospace; font-size: 14px; opacity:0;">Placeholder</span>
+    </td>
 
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" />
-    <span style="font-size: 16px; margin-left: 8px;">Git</span>
-  </a>
-  <br>
-
-  <a href="https://github.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" />
-    <span style="font-size: 16px; margin-left: 8px;">GitHub</span>
-  </a>
-  <br>
-
-</p>
+    <td align="center">
+      <img src="https://via.placeholder.com/60/000000/FFFFFF?text=+" width="60" style="opacity:0;"/>
+      <br>
+      <span style="font-family: monospace; font-size: 14px; opacity:0;">Placeholder</span>
+    </td>
+  </tr>
+</table>
 
 
 ---
