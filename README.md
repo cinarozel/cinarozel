@@ -31,7 +31,6 @@
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="https://github.com" target="_blank">
@@ -39,30 +38,14 @@
         <br>
         <span style="font-family: monospace; font-size: 14px;">GitHub</span>
       </a>
-    </td>
-
-    <!-- Boş bırakılmış 5. ve 6. ikon alanları -->
-    <td align="center">
-      <img src="https://via.placeholder.com/60/000000/FFFFFF?text=+" width="60" style="opacity:0;"/>
-      <br>
-      <span style="font-family: monospace; font-size: 14px; opacity:0;">Placeholder</span>
-    </td>
-
-    <td align="center">
-      <img src="https://via.placeholder.com/60/000000/FFFFFF?text=+" width="60" style="opacity:0;"/>
-      <br>
-      <span style="font-family: monospace; font-size: 14px; opacity:0;">Placeholder</span>
-    </td>
   </tr>
 </table>
-
 
 ---
 
 ## 📊 GitHub Stats (Working Alternatives)
 
 ### **GitHub Profile Summary Cards**
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cinarozel&theme=tokyonight" alt="Profile Details"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cinarozel&theme=tokyonight" alt="Most Used Languages"/>
@@ -70,7 +53,6 @@
 </p>
 
 ### **Metrics**
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cinarozel&theme=tokyo-night" alt="Activity Graph" />
 </p>
@@ -81,20 +63,6 @@
 
 - 🔹 [Main website](https://cinarozel.github.io)
 - 🔹 [AllSearchEnginesOn1Page](https://cinarozel.github.io/allsearchenginesononepage)
-
----
-
-## 🌍 Connect With Me
-
-<p>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-ff4d4d?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -110,3 +78,30 @@
 
 > “Code is like humor. When you have to explain it, it’s bad.”
 
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://mastodon.social/@YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
+  </a>
+
+</p>
