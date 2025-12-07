@@ -51,6 +51,7 @@
         <span style="font-family: monospace; font-size: 14px;">VS Code</span>
       </a>
     </td>
+    <td>
 <td align="center">
       <a href="https://apps.kde.org/konsole/" target="_blank">
         <img src="https://apps.kde.org/app-icons/org.kde.konsole.svg" width="60" alt="Konsole"/>
@@ -58,6 +59,15 @@
         <span style="font-family: monospace; font-size: 14px;">Konsole</span>
       </a>
     </td>
+   <td>
+<td align="center">
+      <a href="https://www.vim.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vim"
+width="60" alt="Konsole"/>
+        <br>
+        <span style="font-family: monospace; font-size: 14px;">Vim</span>
+      </a>
+    </td> 
   </tr>
 </table> 
 
