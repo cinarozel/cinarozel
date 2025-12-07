@@ -51,6 +51,13 @@
         <span style="font-family: monospace; font-size: 14px;">VS Code</span>
       </a>
     </td>
+<td align="center">
+      <a href="https://apps.kde.org/konsole/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=konsole" width="60" alt="Konsole"/>
+        <br>
+        <span style="font-family: monospace; font-size: 14px;">Konsole</span>
+      </a>
+    </td>
   </tr>
 </table> 
 
