@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 Technologies
 <table align="center">
   <tr>
     <td align="center">
@@ -24,6 +24,21 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://archlinux.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=arch" width="60" alt="Arch Linux"/>
+        <br>
+        <span style="font-family: monospace; font-size: 14px;">Arch Linux</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ Tools
+<table align="center">
+  <tr>
+    <td align="center">
       <a href="https://git-scm.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
         <br>
@@ -37,14 +52,8 @@
         <span style="font-family: monospace; font-size: 14px;">GitHub</span>
       </a>
     </td>
-    <td align="center">
-      <a href="https://archlinux.org" target="_blank">
-        <img src="https://skillicons.dev/icons?i=arch" width="60" alt="GitHub"/>
-        <br>
-        <span style="font-family: monospace; font-size: 14px;">Arch Linux</span>
-      </a>
   </tr>
-</table>
+</table> 
 
 ---
 
