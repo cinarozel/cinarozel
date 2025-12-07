@@ -22,14 +22,6 @@
         <br>
         <span style="font-family: monospace; font-size: 14px;">HTML</span>
       </a>
-    </td>
-    <td align="center">
-      <a href="https://archlinux.org" target="_blank">
-        <img src="https://skillicons.dev/icons?i=arch" width="60" alt="Arch Linux"/>
-        <br>
-        <span style="font-family: monospace; font-size: 14px;">Arch Linux</span>
-      </a>
-    </td>
   </tr>
 </table>
 
@@ -61,6 +53,22 @@
     </td>
   </tr>
 </table> 
+
+---
+
+## 💻 Operating System
+<table align="center">
+  <tr>
+   </td>
+    <td align="center">
+      <a href="https://archlinux.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=arch" width="60" alt="Arch Linux"/>
+        <br>
+        <span style="font-family: monospace; font-size: 14px;">Arch Linux</span>
+      </a>
+    </td> 
+   </tr>
+  </table>
 
 ---
 
