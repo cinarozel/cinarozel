@@ -73,9 +73,7 @@
 
 ## 🎯 About Me
 
-- 🌱 Currently learning **advanced Python** and **web development**  
-- 🧩 I love solving problems and experimenting with new ideas  
-- 🎨 Interested in clean UI and simple designs  
+- 🍀 I'm a little new here, I'm trying to come up in my own way
 
 ---
 
