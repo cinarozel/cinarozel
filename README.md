@@ -30,12 +30,6 @@
 ## ⚙️ Tools
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://git-scm.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
-        <br>
-        <span style="font-family: monospace; font-size: 14px;">Git</span>
-      </a>
     </td>
     <td align="center">
       <a href="https://github.com" target="_blank">
