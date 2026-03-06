@@ -39,8 +39,8 @@
       </a>
     </td>
 <td align="center">
-      <a href="https://code.visualstudio.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code"/>
+      <a href="https://kdevelop.org/" target="_blank">
+        <img src="https://apps.kde.org/app-icons/org.kde.kdevelop.svg" width="60" alt="VS Code"/>
         <br>
         <span style="font-family: monospace; font-size: 14px;">VS Code</span>
       </a>
@@ -72,8 +72,8 @@ width="60" alt="Konsole"/>
   <tr>
    </td>
     <td align="center">
-      <a href="https://archlinux.org" target="_blank">
-        <img src="https://skillicons.dev/icons?i=arch" width="60" alt="Arch Linux"/>
+      <a href="https://cachyos.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux"/>
         <br>
         <span style="font-family: monospace; font-size: 14px;">Arch Linux</span>
       </a>
