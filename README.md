@@ -40,9 +40,9 @@
     </td>
 <td align="center">
       <a href="https://kdevelop.org/" target="_blank">
-        <img src="https://apps.kde.org/app-icons/org.kde.kdevelop.svg" width="60" alt="VS Code"/>
+        <img src="https://apps.kde.org/app-icons/org.kde.kdevelop.svg" width="60" alt="K Develop"/>
         <br>
-        <span style="font-family: monospace; font-size: 14px;">VS Code</span>
+        <span style="font-family: monospace; font-size: 14px;">K Develop</span>
       </a>
     </td>
     </td>
@@ -75,7 +75,7 @@ width="60" alt="Konsole"/>
       <a href="https://cachyos.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux"/>
         <br>
-        <span style="font-family: monospace; font-size: 14px;">Arch Linux</span>
+        <span style="font-family: monospace; font-size: 14px;">Linux</span>
       </a>
     </td> 
    </tr>
