@@ -10,13 +10,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
-        <br>
-        <span style="font-family: monospace; font-size: 14px;">Python</span>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://html.spec.whatwg.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML"/>
         <br>
